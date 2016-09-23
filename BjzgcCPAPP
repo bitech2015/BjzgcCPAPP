@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.16.1.5:8082/appdownbjzgccp/BjZgcCP_Icon.png</string>
+					<string>http://172.16.1.5:8082/BjZgcCP_Icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.1.5:8082/appdownbjzgccp/BjZgcCP.ipa</string>
+					<string>http://172.16.1.5:8082/BjZgcCP.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
